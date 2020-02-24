@@ -36,7 +36,7 @@ $ make
 ```
 
 
-How to run 'opencv_blackjack':
+How to run 'opencv_miximages':
 
 ```console
 $ cd build
