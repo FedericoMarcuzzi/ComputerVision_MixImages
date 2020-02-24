@@ -4,13 +4,6 @@ Given two images, the program combines them based on the threshold used (C++ and
 First assignment for the *Computer Vision* [course](https://www.dsi.unive.it/~bergamasco/courses/computer_vision_2017_2018.html) of *Università Ca' Foscari Venezia*, academic year 2017/2018
 
 
-Rrequirements
-
- - CMake
- - Git
- - A C++ compiler toolchain (like gcc)
-
-
 Install OpenCV:
 
 ```console
