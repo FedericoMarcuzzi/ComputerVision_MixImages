@@ -19,7 +19,7 @@ $ make install
 ```
 
 
-How to build 'opencv_blackjack':
+How to build 'opencv_miximages':
 
 ```console
 $ mkdir build
